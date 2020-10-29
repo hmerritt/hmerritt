@@ -5,6 +5,7 @@
 Here are some of my most recent projects;
 
 - [__Music Library__](https://github.com/music-library/music-library) - web-app to stream music on all devices
+- [__Bug Catch__](https://github.com/bug-catch) - javascript library to catch all errors and log custom events within any website
 - [__fspop__](https://github.com/hmerritt/fspop) - create large file structures instantly from custom templates
 
 <br />
