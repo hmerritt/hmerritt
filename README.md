@@ -2,6 +2,11 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/hmerritt?label=hmerritt&style=social)](https://github.com/hmerritt)  [![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/harry-merritt/)
 
+About me;
+- *Intrigued* by [__automation__](https://github.com/hmerritt/fspop)
+- *Passionate* about blazing-fast [__web applications__](https://github.com/music-library/music-library)
+- *In love* with [__photography__](https://merritt.es/photos/hmerritt--015-04.jpg)
+
 Here are some of my most recent projects;
 
 - [__Music Library__](https://github.com/music-library/music-library) - web-app to stream music on all devices
