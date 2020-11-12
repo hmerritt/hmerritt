@@ -7,11 +7,11 @@ About me;
 - *Passionate* about blazing-fast [__web applications__](https://github.com/music-library/music-library)
 - *In love* with [__photography__](https://merritt.es/photos/hmerritt--015-04.jpg)
 
-Here are some of my most recent projects;
+Currently working on;
 
-- [__Music Library__](https://github.com/music-library/music-library) - web-app to stream music on all devices
+- [__Epub Reader__](https://github.com/hmerritt/epub-reader) - web-app to read epubs directly in the browser
 - [__Bug Catch__](https://github.com/bug-catch) - javascript library to catch all errors and log custom events within any website
-- [__fspop__](https://github.com/hmerritt/fspop) - create large file structures instantly from custom templates
+- [__Music Library__](https://github.com/music-library/music-library) - web-app to stream music on all devices
 
 <br />
 
