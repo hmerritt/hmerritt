@@ -9,7 +9,7 @@ About me;
 
 Currently working on;
 
-- [__Epub Reader__](https://github.com/hmerritt/epub-reader) - web-app to read epubs directly in the browser
+- [__Ambient TV__](https://github.com/hmerritt/ambient-tv) - A react-native web-app which cycles background images
 - [__Bug Catch__](https://github.com/bug-catch) - javascript library to catch all errors and log custom events within any website
 - [__Music Library__](https://github.com/music-library/music-library) - web-app to stream music on all devices
 
