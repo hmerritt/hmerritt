@@ -18,12 +18,13 @@ Currently working on;
 __Languages and tools I like to use;__
 
 <span>
-	<img title="javascript" height="30" style="padding: 5px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-	<img title="react"      height="30" style="padding: 5px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-	<img title="redux"      height="30" style="padding: 5px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
-	<img title="sass"       height="30" style="padding: 5px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-	<img title="nodejs"     height="30" style="padding: 5px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-	<img title="socket.io"  height="30" style="padding: 5px;" src="https://rawcdn.githack.com/hmerritt/hmerritt/a36343ff88bff20084e98e6a08704b8c3dc2c1ee/assets/socketio.png" />
-	<img title="python"     height="30" style="padding: 5px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-	<img title="php"        height="30" style="padding: 5px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
+	<img title="Go" height="30" style="padding: 5px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
+	<img title="JavaScript" height="30" style="padding: 5px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+	<img title="React.js"      height="30" style="padding: 5px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+	<img title="Redux.js"      height="30" style="padding: 5px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
+	<img title="SASS"       height="30" style="padding: 5px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+	<img title="Node.js"     height="30" style="padding: 5px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+	<img title="Socket.IO"  height="30" style="padding: 5px;" src="https://rawcdn.githack.com/hmerritt/hmerritt/a36343ff88bff20084e98e6a08704b8c3dc2c1ee/assets/socketio.png" />
+	<img title="Python"     height="30" style="padding: 5px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+	<img title="PHP"        height="30" style="padding: 5px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
 </span>
