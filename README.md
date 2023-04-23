@@ -1,6 +1,6 @@
 ### Hello 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/hmerritt?label=hmerritt&style=social)](https://github.com/hmerritt)  [![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/harry-merritt/)  ![Twitter Follow](https://img.shields.io/twitter/follow/hmerritt?style=social)
+[![GitHub followers](https://img.shields.io/github/followers/hmerritt?label=hmerritt&style=social)](https://github.com/hmerritt)  [![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/harry-merritt/)  ![Twitter Follow](https://img.shields.io/twitter/follow/hmrrtt?style=social)
 
 About me;
 - *Intrigued* by [__automation__](https://github.com/hmerritt/fspop)
