@@ -4,7 +4,7 @@
 
 About me:
 
-- *Intrigued* by [__automation__](https://github.com/hmerritt/fspop-nodejs)
+- *Intrigued* by [__automation__](https://github.com/hmerritt/fspop)
 - *Passionate* about blazing-fast [__web applications__](https://github.com/music-library/music-library)
 - *In love* with [__films__](https://moonshot.film)
 
