@@ -28,7 +28,7 @@ Currently working on:
 
 <br />
 
-**Tools I like to use;**
+**Tools I like to use:**
 
 <span>
 	<a href="https://vite.dev" target="_blank"><img title="Vite" height="30" style="padding: 5px;" src="./assets/vite.jpg" /></a>
@@ -45,7 +45,7 @@ Currently working on:
 
 <br />
 
-**Libraries I like to use;**
+**Libraries I like to use:**
 
 <span>
     <a href="https://react.dev" target="_blank"><img title="React.js" height="30" style="padding: 5px;" src="./assets/react.jpg" /></a>
