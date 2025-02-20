@@ -9,10 +9,9 @@ About me:
 -   _In love_ with [**films**](https://moonshot.film)
 
 Currently working on:
-
+-   [**reactenv**](https://github.com/hmerritt/reactenv) - Inject environment variables into a bundled react app (after build)
 -   [**Adrift**](https://github.com/hmerritt/adrift) - A template react app with batteries included 🔋
 -   [**Music Library**](https://github.com/music-library/music-library) - A fully-featured music web-app to stream music on all devices
--   [**Ambient TV**](https://github.com/hmerritt/ambient-tv) - A react-native web-app which cycles background images
 
 <br />
 
