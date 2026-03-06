@@ -9,6 +9,7 @@ About me:
 -   _In love_ with [**films**](https://moonshot.film)
 
 Currently working on:
+-   [**aura**](https://github.com/hmerritt/aura) - A lightweight wallpaper manager, written in Rust, with a GPU-accelerated shader renderer attached
 -   [**reactenv**](https://github.com/hmerritt/reactenv) - Inject environment variables into a bundled react app (after build)
 -   [**Adrift**](https://github.com/hmerritt/adrift) - A template react app with batteries included 🔋
 -   [**Music Library**](https://github.com/music-library/music-library) - A fully-featured music web-app to stream music on all devices
@@ -60,3 +61,4 @@ Currently working on:
 	<a href="https://github.com/spf13/cobra" target="_blank"><img title="Cobra" height="30" style="padding: 5px;" src="./assets/cobra.png" /></a>
 	<a href="https://socket.io/" target="_blank"><img title="Socket.io" height="30" style="padding: 5px;" src="./assets/socket.io.png" /></a>
 </span>
+
