@@ -9,6 +9,7 @@ About me:
 -   _In love_ with [**films**](https://moonshot.film)
 
 Currently working on:
+-   [**explorer**](https://github.com/hmerritt/explorer) - ~Windows~ File Explorer for macOS, Linux, and Windows (with a GPU-accelerated UI)
 -   [**exifmeta**](https://github.com/hmerritt/exifmeta) - EXIF tool for photographers
 -   [**aura**](https://github.com/hmerritt/aura) - A lightweight wallpaper manager, written in Rust, with a GPU-accelerated shader renderer attached
 -   [**reactenv**](https://github.com/hmerritt/reactenv) - Inject environment variables into a bundled react app (after build)
